@@ -1,4 +1,4 @@
-from flask import Flask , jsonify , request, g
+from flask import Flask , jsonify , request
 from flask_sqlalchemy import SQLAlchemy
 import os
 from flask_sqlalchemy import SQLAlchemy
